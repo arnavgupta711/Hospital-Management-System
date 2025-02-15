@@ -1,7 +1,7 @@
 # Introduction
 The Hospital Management System (HMS) is a comprehensive solution designed to streamline hospital operations, enhance patient care, and improve workflow efficiency. This system manages patient records, appointments, billing, medical inventory, staff management, and more.
 
-### Features
+## Features
 1. Patient Management: Register new patients, update details, and maintain medical records.
 2. Appointment Scheduling: Manage doctor appointments and track schedules.
 3. Doctor & Staff Management: Keep records of doctors, nurses, and other hospital staff.
